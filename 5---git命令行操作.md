@@ -79,15 +79,15 @@ git reset 9ad27fca19889c2ac242ed38f028e47c8852a0bd
 
 1）暂存修改
 
-`git stash --all
+git stash --all
 
 2）查看所有暂存
 
-`git stash list
+git stash list
 
 3）恢复暂存的修改
 
-`git stash pop
+git stash pop
 
 # 6、A分支合并到B分支
 
